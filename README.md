@@ -4,13 +4,14 @@ Skill Set (Web & WordPress/ Front & Backend Expertise)
 Expert Lead Generator | Business Emails | MailChimp Marketing
 
 
-Expertise On Web & WordPress CMS:
+Expertise On Web,pPHP laravel & WordPress CMS:
 ==============================
 ☛ WordPress theme development & customization
 ☛ WordPress plugin development & customization
 ☛ Personal/Business Website using WordPress
 ☛ Landing Page/ Lead pages
 ☛ App & Games launching/ Product-Service based Landing page
+☛ Php Laravel web applications development & customization
 
 Expertise In Shopify & WooCommerce:
 ===============================
@@ -32,7 +33,7 @@ Best Features of Mine/ What i can give you best then others:
 ➤ Google tag manager
 
 ========== Language ==========
-WORDPRESS, MYSQL, MARIA DB, HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY
+WORDPRESS, PHP,MYSQL, MARIA DB, HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, JQUERY,Liquid,Laravel
 
 ========== Respect Deadlines ==========
 ☛ I always respect and honor timelines for my projects. Never take a lots of project at a time. This account is my lifetime asset so QUALITY FIRST !
