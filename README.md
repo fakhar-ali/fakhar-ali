@@ -4,7 +4,7 @@ Skill Set (Web & WordPress/ Front & Backend Expertise)
 Expert Lead Generator | Business Emails | MailChimp Marketing
 
 
-Expertise On Web,pPHP laravel & WordPress CMS:
+Expertise On Web,PHP laravel & WordPress CMS:
 ==============================
 ☛ WordPress theme development & customization
 ☛ WordPress plugin development & customization
@@ -47,8 +47,8 @@ WORDPRESS, PHP,MYSQL, MARIA DB, HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, JQUERY,Liqui
 ========== Communication/ Reporting ==========
 ☛ I always like to maintain strong commncations with my clients.
 
-☛ For long term projects weekly a meeting in "Sk-pe" & for short term project daily based reporting - By "Trello", "Sl-ack", "H-ang-outs", "W-hatsApp" and Upwork messenger.
+☛ For long term projects weekly a meeting in "Sk-pe" & for short term project daily based reporting - By "Trello", "Slack", "Hangouts", "WhatsApp", Fiverr and Upwork messenger.
 
 
 Thanks,
-Md Ahmed Mehmood.(Ali)
+Fakhar Ali
